@@ -10,7 +10,7 @@ This collection represents coursework, projects, and assignments completed durin
 
 ### Level 1 - Term 1
 
-#### [CSE 102 - Structured Programming Language Sessional Project]([Insert GitHub URL](https://github.com/Saon110/Muslim-s-Day))
+#### [CSE 102 - Structured Programming Language Sessional Project](https://github.com/Saon110/Muslim-s-Day))
 
 ---
 
