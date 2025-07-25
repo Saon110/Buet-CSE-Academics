@@ -10,120 +10,41 @@ This collection represents coursework, projects, and assignments completed durin
 
 ### Level 1 - Term 1
 
-#### [CSE 102 - Structured Programming Language Sessional Project](https://github.com/Saon110/Muslim-s-Day))
+#### [CSE 102 - Structured Programming Language Sessional Project](https://github.com/Saon110/Muslim-s-Day)
 
 ---
 
 ### Level 1 - Term 2
 
-#### [CSE 108 - Object Oriented Programming](Insert GitHub URL)
+#### [CSE 108 - Object Oriented Programming](https://github.com/Saon110/OOP_offlines)
 
-Object-oriented programming concepts and implementation using modern programming languages.
-
-**Topics Covered:**
-- OOP principles (Encapsulation, Inheritance, Polymorphism)
-- Class and object design
-- Abstract data types
-- Design patterns
-
-#### [CSE 106 - Data Structure and Algorithm I](Insert GitHub URL)
-
-Fundamental data structures and basic algorithms.
-
-**Topics Covered:**
-- Arrays, linked lists, stacks, queues
-- Trees and graphs
-- Basic sorting and searching algorithms
-- Algorithm analysis and complexity
+#### [CSE 106 - Data Structure and Algorithm I](https://github.com/Saon110/DSA_assignments_1-2)
 
 ---
 
 ### Level 2 - Term 1
 
-#### [CSE 208 - Data Structure and Algorithm II](Insert GitHub URL)
+#### [CSE 208 - Data Structure and Algorithm II](https://github.com/Saon110/DSA_II_2-1)
 
-Advanced data structures and algorithmic techniques.
-
-**Topics Covered:**
-- Advanced tree structures (AVL, Red-Black trees)
-- Graph algorithms (shortest path, minimum spanning tree)
-- Dynamic programming
-- Greedy algorithms
-- Network flow algorithms
-
-#### [CSE 216 - Database Sessional](Insert GitHub URL)
-
-Database design, implementation, and management project.
-
-**Topics Covered:**
-- Database design and normalization
-- SQL and query optimization
-- Database management systems
-- Real-world database application development
+#### [CSE 216 - Database Sessional](https://github.com/Saon110/Jobster)
 
 ---
 
 ### Level 2 - Term 2
 
-#### [CSE 214 - Software Engineering](Insert GitHub URL)
+#### [CSE 214 - Software Engineering](https://github.com/Saon110/SWE_2-2)
 
-Software development methodologies and project management.
-
-**Topics Covered:**
-- Software development life cycle
-- Requirements analysis and design
-- Testing and quality assurance
-- Project management and teamwork
-
-#### [CSE 220 - Signals and Systems](Insert GitHub URL)
-
-Mathematical analysis of signals and systems in engineering applications.
-
-**Topics Covered:**
-- Signal analysis and processing
-- System modeling and analysis
-- Fourier transforms
-- Filter design and implementation
+#### [CSE 220 - Signals and Systems](https://github.com/Saon110/CSE_220_signal)
 
 ---
 
 ### Level 3 - Term 1
 
-#### [CSE 310 - Compiler](Insert GitHub URL)
+#### [CSE 310 - Compiler](https://github.com/Saon110/Compiler_CSE_310)
 
-Design and implementation of programming language compilers.
+#### [CSE 314 - Operating Systems](https://github.com/Saon110/Operating_System)
 
-**Topics Covered:**
-- Lexical analysis and parsing
-- Syntax and semantic analysis
-- Code generation and optimization
-- Compiler construction techniques
-
-#### [CSE 314 - Operating Systems](Insert GitHub URL)
-
-Operating system concepts and system programming.
-
-**Topics Covered:**
-- Process management and scheduling
-- Memory management and virtual memory
-- File systems and I/O management
-- Synchronization and concurrency
-
-#### [CSE 318 - Artificial Intelligence](https://github.com/[your-username]/CSE318-Artificial-Intelligence)
-
-Fundamental concepts and algorithms in Artificial Intelligence.
-
-**Topics Covered:**
-- Search algorithms and problem-solving
-- Game theory and adversarial search
-- Machine learning fundamentals
-- Optimization techniques
-
-**Current Implementation:**
-- N-Puzzle Solver with multiple search algorithms
-- Max Cut optimization problem
-- Game playing agents with minimax algorithm
-- Decision trees and random forest implementation
+#### [CSE 318 - Artificial Intelligence](https://github.com/Saon110/Artificial-Intelligence)
 
 ---
 
@@ -185,9 +106,7 @@ These repositories serve as:
 
 For questions about specific implementations or collaborations:
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** [saonchishty@gmail.com]
 
 ---
 
