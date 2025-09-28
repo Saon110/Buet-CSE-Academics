@@ -10,14 +10,14 @@ This collection represents coursework, projects, and assignments completed durin
 
 ### Level 1 - Term 1
 
-#### [CSE 102 - Structured Programming Language Sessional Project](https://github.com/Saon110/Muslim-s-Day)
+#### [CSE 102 - Muslim's Day : Structured Programming Language Sessional Project](https://github.com/Saon110/Muslim-s-Day)
 
 ---
 
 ### Level 1 - Term 2
 
 #### [CSE 108 - Object Oriented Programming](https://github.com/Saon110/OOP_offlines)
-#### [CSE 108 - Java Project](https://github.com/Saon110/Restaurant_Management_App)
+#### [CSE 108 - ResTaurent Management App : Java Project](https://github.com/Saon110/Restaurant_Management_App)
 
 #### [CSE 106 - Data Structure and Algorithm I](https://github.com/Saon110/DSA_assignments_1-2)
 
@@ -27,7 +27,7 @@ This collection represents coursework, projects, and assignments completed durin
 
 #### [CSE 208 - Data Structure and Algorithm II](https://github.com/Saon110/DSA_II_2-1)
 
-#### [CSE 216 - Jobster - Database Sessional Project](https://github.com/Saon110/Jobster)
+#### [CSE 216 - Jobster : Database Sessional Project](https://github.com/Saon110/Jobster)
 
 ---
 
