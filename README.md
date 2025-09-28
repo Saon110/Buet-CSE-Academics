@@ -17,7 +17,7 @@ This collection represents coursework, projects, and assignments completed durin
 ### Level 1 - Term 2
 
 #### [CSE 108 - Object Oriented Programming](https://github.com/Saon110/OOP_offlines)
-#### [CSE 108 - ResTaurent Management App : Java Project](https://github.com/Saon110/Restaurant_Management_App)
+#### [CSE 108 - Restaurent Management App : Java Project](https://github.com/Saon110/Restaurant_Management_App)
 
 #### [CSE 106 - Data Structure and Algorithm I](https://github.com/Saon110/DSA_assignments_1-2)
 
