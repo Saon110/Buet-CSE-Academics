@@ -27,7 +27,7 @@ This collection represents coursework, projects, and assignments completed durin
 
 #### [CSE 208 - Data Structure and Algorithm II](https://github.com/Saon110/DSA_II_2-1)
 
-#### [CSE 216 - Database Sessional](https://github.com/Saon110/Jobster)
+#### [CSE 216 - Jobster - Database Sessional Project](https://github.com/Saon110/Jobster)
 
 ---
 
